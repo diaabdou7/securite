@@ -1,0 +1,32 @@
+.couleur_rouge
+{
+	color:red;
+}
+
+span
+{
+	font-style:bold 
+}
+footer
+{    
+	height:200px;
+	background-color: #B0C4DE;
+	width: 100%;
+}
+
+footer h3
+{
+	text-align:center;
+	color:white;
+	background-color:blue;
+}
+
+.bordure_haut
+{
+     border-top: 1px solid blue;
+}
+
+h3
+{
+	border-bottom: 1px solid red;
+}
